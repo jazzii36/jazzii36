@@ -6,6 +6,6 @@
 - 🔭 I work in Suzhou, Jiangsu as an IT Product Manager....
 - 🌱 I am currently very interested in AI and high-performance software architecture....
 - 📖 I write stuff at [https://jazzii36.github.io](https://jazzii36.github.io)
-- 🕸️ Browse the domestic website I built using OpenAI's Open API.
+- 🕸️ Browse the domestic website I built using OpenAI's Open API. [https://monkeyrun.icu]
 - 📫 How to reach me: jazzii36@icloud.com
 
